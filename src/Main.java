@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Digite o valor que seja ser invertido: ");
+        System.out.print("Digite o valor que deseja ser invertido: ");
         int numero = scanner.nextInt();
 
         int unidade = numero % 10;
